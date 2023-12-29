@@ -19,7 +19,7 @@ export default function Navbar() {
           <Image
             src={navlogo}
             alt="logo"
-            width="100"
+            width="160"
             height="55"
             className="cursor-pointer"
             priority
