@@ -17,8 +17,10 @@ const Hero = () => {
           <Image
             src={heroSplash}
             alt="logo"
-            width={150}
-            height={150}
+            width={350}
+            height={280}
+            // width={250}
+            // height={250}
             className="object-contain"
           />
         </div>
@@ -37,8 +39,8 @@ const Hero = () => {
         <Image
         src={heroSplash}
         alt="logo"
-        width={250}
-        height={250}
+        width={700}
+        height={560}
         className="object-contain"
         />
       </div>
