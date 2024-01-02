@@ -35,10 +35,10 @@ const About = () => {
           About Me
         </h2>
         <p className="lg:max-w-lg mt-4 ml-3 info-text max-sm:text-base max-sm:leading-[24px]">
-          Hi, I work in in front-end web development using Reactjs and am experienced in creating dynamic, user-friendly websites. I am proficient in using Tailwindcss to enhance the visual appeal of my projects.
+          Hi, I'm Michael, and I enjoy working in front-end web development using javascript, reactjs and am experienced in creating dynamic, user-friendly websites. I am passionate for all things tech, programming and all things boba.
         </p>
         <p className="lg:max-w-lg mt-6 ml-3 info-text max-sm:text-base max-sm:mt-3 max-sm:mb-7 max-sm:leading-[24px]">
-          Our dedication to detail and excellence ensures your satisfaction  is that I can create software from nothing that solves real problems.
+          In my free time, I enjoy being outdoors in the sun, and spending time exploring new places. I've recently ran a half marathon and that was something I'd rather not do again.
         </p>
       </div>
 
