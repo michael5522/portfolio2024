@@ -138,7 +138,7 @@ export const projectInfo = [
     bigImage: dDesktop,
     title: "Random BCE",
     stack: "#nextjs #tailwindcss",
-    desc: "Using the latest next.js and tailwind css to create this portfolio website",
+    desc: "A mobile and desktop responsive web application powered by next.js and tailwind to create this portfolio website to showcase a bit of myself",
     href: "https://tailwindcss.com/docs/border-radius"
   }
 ]
