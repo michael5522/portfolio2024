@@ -19,8 +19,6 @@ const Hero = () => {
             alt="logo"
             width={350}
             height={280}
-            // width={250}
-            // height={250}
             className="object-contain"
           />
         </div>
