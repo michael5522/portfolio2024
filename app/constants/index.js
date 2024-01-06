@@ -136,10 +136,10 @@ export const projectInfo = [
   {
     thumbnail: dMobile,
     bigImage: dDesktop,
-    title: "Random BCE",
+    title: "NextJS & Tailwind Portfolio",
     stack: "#nextjs #tailwindcss",
     desc: "A mobile and desktop responsive web application powered by next.js and tailwind to create this portfolio website to showcase a bit of myself",
-    href: "https://tailwindcss.com/docs/border-radius"
+    href: "https://mkc-portfolio.vercel.app/"
   }
 ]
 
