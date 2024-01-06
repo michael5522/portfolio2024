@@ -136,7 +136,7 @@ export const projectInfo = [
   {
     thumbnail: dMobile,
     bigImage: dDesktop,
-    title: "NextJS & Tailwind Portfolio",
+    title: "Portfolio",
     stack: "#nextjs #tailwindcss",
     desc: "A mobile and desktop responsive web application powered by next.js and tailwind to create this portfolio website to showcase a bit of myself",
     href: "https://mkc-portfolio.vercel.app/"
